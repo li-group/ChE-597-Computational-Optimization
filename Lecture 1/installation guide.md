@@ -1,4 +1,4 @@
-## Installation Guide
+## Python/Pyomo Installation Guide
 
 ### 1. Installing Anaconda
 
