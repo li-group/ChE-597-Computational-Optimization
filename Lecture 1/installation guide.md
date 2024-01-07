@@ -56,7 +56,7 @@ For more instructions, refer the Pyomo documentation on [installing Pyomo](https
 
 Solvers are needed to compute solutions to the optimization models developed using Pyomo.
 
-Previously, directions were given with the Pyomo installation to get solvers such as ipopt and glpk. Additional solvers includes:
+Two solvers that we will use extensively in this course are [ipopt](https://coin-or.github.io/Ipopt/) and [gurobi](https://www.gurobi.com/). Follow the below procedure to install them.
 
 #### 3.1. ipopt
 
